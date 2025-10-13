@@ -9,6 +9,8 @@
 #### 🔥 Highlights
 
 - Improved component update time in React from 12–25 ms to <7 ms using memoization & render optimizations — a 60%+ performance boost.
+- Configured Docker and Vite for live reloading, cutting iteration cycles from ~30s to ~2s, significantly improving developer productivity.
+- Introduced CI automation for frontend builds and tests in a multi-service monorepo, reducing staging deployment issues and improving code review efficiency through automated validation on PRs.
 - Built a fullstack **Sermon Management Platform** with NestJS, MongoDB & Next.js with JWT authentication.
 - Stepped in for backend developers on multiple occasions, delivering APIs and backend features to keep projects moving.
 
