@@ -2,10 +2,11 @@
 
 #### ⚡ About me:
 
-- **Frontend Engineer** with 4+ years building performant, user-focused web applications.
-- Currently exploring **Golang** for backend development.
-- Outside coding, I’m reading, learning, or writing for my [blog](https://www.babafemijkuku.com/).
+- I'm a full stack engineer with 5 years of experience, who cares about systems that are simple to reason about, easy to test and predict.
+- Actively writing **Golang** for backend development.
+- Outside coding, I’m reading, learning, or writing for my [blog](https://www.babafemikuku.com/).
 
+<!--
 #### 🔥 Highlights
 
 - Improved component update time in React from 12–25 ms to <7 ms using memoization & render optimizations — a 60%+ performance boost.
@@ -32,7 +33,7 @@
   <a href="https://x.com/frontendninja10" target="_blank">
     <img src="images/x.svg" alt="X" width="32" height="32" style="margin-right: 8px;" />
   </a>
-  <a href="https://www.linkedin.com/in/babafemijk/" target="_blank">
+  <a href="https://www.linkedin.com/in/babafemikuku/" target="_blank">
     <img src="images/linkedin.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 8px;" />
   </a>
 </p>
