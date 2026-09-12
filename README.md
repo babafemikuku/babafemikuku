@@ -4,7 +4,7 @@
 
 - I'm a full stack engineer with 5 years of experience, who cares about systems that are simple to reason about, easy to test and predict.
 - Actively writing **Golang** for backend development.
-- Outside coding, I’m reading, learning, or writing for my [blog](https://www.babafemikuku.com/).
+- Outside coding, I’m reading, learning, or writing for on [blog](https://www.babafemikuku.com/).
 
 <!--
 #### 🔥 Highlights
